@@ -1,4 +1,4 @@
-<img align="center" src="https://www.cdmi.in/courses@2x/full-stack.webp" alt="Masterhead" width="100%"/>
+<img align="center" src="https://ndmeaa.com/image/Web-development.gif" alt="Masterhead" width="100%"/>
 <h1 align="center">Hi 👋, I'm Shadman Khan</h1>
 <h3 align="center">A Frontend Developer from India.</h3>
 <img align="right" width="400" src="https://ndmeaa.com/image/Web-development.gif" alt="Developer" />
