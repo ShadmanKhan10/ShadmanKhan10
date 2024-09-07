@@ -1,6 +1,6 @@
 <!-- Dark theme masterhead -->
 <div style="background-color: #121212; padding: 20px;">
-<img align="center" src="https://ndmeaa.com/image/Web-development.gif" alt="Masterhead" width="80%" style="filter: brightness(0.8);"/>
+<img align="center" src="https://ndmeaa.com/image/Web-development.gif" alt="Masterhead" width="100%" style="filter: brightness(0.8);"/>
 
 <h1 align="center" style="color: #fff;">Hi 👋, I'm Shadman Khan</h1>
 <h3 align="center" style="color: #bbb;">A Frontend Developer from India.</h3>
