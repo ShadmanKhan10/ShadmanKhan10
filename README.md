@@ -1,5 +1,5 @@
 <!-- Dark theme masterhead -->
-<div style="background-color: #121212; padding: 20px;">
+
 <img align="center" src="https://ndmeaa.com/image/Web-development.gif" alt="Masterhead" width="100%" style="filter: brightness(0.8);"/>
 
 <h1 align="center" style="color: #fff;">Hi 👋, I'm Shadman Khan</h1>
@@ -43,5 +43,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shadmankhan10&show_icons=true&locale=en&theme=dark" alt="shadmankhan10" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shadmankhan10&theme=dark" alt="shadmankhan10" /></p>
-</div>
+
 
