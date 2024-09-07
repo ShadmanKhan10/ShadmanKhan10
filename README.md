@@ -1,4 +1,4 @@
-<img align="right" width="100vh" src="https://ndmeaa.com/image/Web-development.gif" alt="Developer" />
+
 <h1 align="center">Hi 👋, I'm Shadman Khan</h1>
 <h3 align="center">A Frontend Developer from India.</h3>
 <img align="right" width="400" src="https://ndmeaa.com/image/Web-development.gif" alt="Developer" />
